@@ -1,0 +1,42 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    font-family: Helvetica, sans-serif;
+}
+.reveal h1 img {
+	border: none;
+}
+
+
+.reveal .whitebg, .reveal .whitebg h1, .reveal .whitebg h2, .reveal .whitebg h3, .reveal .whitebg h4, .reveal .whitebg h5, .reveal .whitebg h6 {
+	color: #222;
+}
+.reveal .whitebg.mixedbg, .reveal .whitebg.mixedbg h1, .reveal .whitebg.mixedbg h2, .reveal .whitebg.mixedbg h3, .reveal .whitebg.mixedbg h4, .reveal .whitebg.mixedbg h5, .reveal .whitebg.mixedbg h6 {
+	text-shadow: 0px 0px 20px white;
+}
+
+
+.reveal .mixedbg, .reveal .mixedbg h1, .reveal .mixedbg h2, .reveal .mixedbg h3, .reveal .mixedbg h4, .reveal .mixedbg h5, .reveal .mixedbg h6 {
+	text-shadow: 0px 0px 20px #222;
+}
+
+.reveal.overview .slides section:hover, .reveal.overview .slides section.present {
+    outline: 10px solid rgba(150, 150, 150, 0.88);
+}
+
+.reveal .whitebg blockquote {
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
+
+.reveal .whitebg a {
+  color: #2a76dd;
+}
+
+.reveal .whitebg a:hover {
+  color: #6ca0e8;
+}
+
+.reveal .whitebg .roll span:after {
+color: #fff;
+background: #1a53a1; }
+
+
+
